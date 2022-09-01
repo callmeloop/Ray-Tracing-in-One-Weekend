@@ -6,8 +6,6 @@ Reimplementation of Peter Shirley's [Ray Tracing in One Weekend](https://raytrac
 1. make
 2. ./main > image.ppm
 
----
-
 ## Sample Outputs
 
 ![Image](out/image.png "Title")
